@@ -1,0 +1,7 @@
+#2. F.U.P. que calcule o valor de um coxinha, dado que o usuário vai pedir mais de uma.
+
+numero_de_coxinha = int(float(input("Digite qtde desejada:")))
+
+coxinha = numero_de_coxinha * 3.00
+igor
+print ("O valor a ser pago é R$", coxinha)
