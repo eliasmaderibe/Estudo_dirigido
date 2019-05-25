@@ -1,0 +1,10 @@
+#1. Faça Um Programa em Python que aceite o raio de um círculo do usuário e calcule a área.
+
+#pi vezes raio ao quadrado igor
+#pi= 3,14
+
+raio = float(int(input("Digite o raio: ")))
+
+area = 3.14* raio * raio
+
+print ("area é igual a: ", area)
